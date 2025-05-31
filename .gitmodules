@@ -1,0 +1,9 @@
+[submodule "ProjetoI"]
+	path = ProjetoI
+	url = https://github.com/iW90/PJI110_projeto-integrador_I
+[submodule "ProjetoII"]
+	path = ProjetoII
+	url = https://github.com/iW90/PJI240_projeto-integrador_II
+[submodule "ProjetoIII"]
+	path = ProjetoIII
+	url = https://github.com/iW90/PJI310_projeto-integrador_III
